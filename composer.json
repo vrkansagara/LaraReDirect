@@ -21,12 +21,6 @@
     "php": ">=5.5"
   },
   "autoload": {
-    rm
-    '.idea/vcs.xml'
-    rm
-    '.idea/vcs.xml'
-    gssgss
-
     "psr-4": {
       "Vrkansagara\\": "src/LaraReDirect"
     }
